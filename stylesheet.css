@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.section-revolutionslider {
+	display:none;
+}
+.drag-drop-editing .section-revolutionslider {
+	width:100%;
+	display:block!important;
+}

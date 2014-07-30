@@ -1,4 +1,6 @@
 revslider-dms-adapter
 =====================
 
-Slider Revolution adapter Pagelines DMS
+Slider Revolution Adapter Pagelines DMS
+
+Section for Pagelines DMS to use the Slider Revolution Plugin.
